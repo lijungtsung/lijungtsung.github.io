@@ -1,5 +1,5 @@
 ## Publications
-<br/><br/>
+<br/>
 + Jung-Tsung Li, George M. Fuller, Evan Grohs, "Probing dark photons in the early universe with big bang nucleosynthesis", JCAP 12 (2020) 049 <br/><br/>
 + Jung-Tsung Li, Tongyan Lin, "Dynamics of millicharged dark matter in supernova remnants", Phys. Rev. D 101, 103034~(2020) <br/><br/>
 + Jung-Tsung Li, George M. Fuller, Chad T. Kishimoto, "Neutrino burst-generated gravitational radiation from collapsing supermassive stars", Phys. Rev. D 98, 023002 (2018) <br/><br/>
