@@ -3,14 +3,14 @@
 ### Dark photons & big bang bucleosynthesis:
 <img src="images/dp_bound.png" width = "400"><br/><br/>
 Freeze-in dark photons decaying out of equilibrium during the weak-decoupling epoch results in an entropy flow between the neutrino and plasma sectors. In my work with G. M. Fuller and E. Groh[1], we trace the evolution of nucleosynthesis numerically from the beginning of weak decoupling with the presence of late-decay dark photons. Using the 1%-level primordial deuterium abundance measurements from quasar absorption lines, our result excludes a range of dark photon model parameters.<br/>
-[1] J.-T. Li, G. M. Fuller, E. Grohs, <a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a>
+[1] J.-T. Li, G. M. Fuller and E. Grohs, <a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a>
 <br/><br/><br/>
 
 
 ### Dark matter & plasma instability:
 <img src="images/shock_diagram.png" width = "400"><br/><br/>
 Milli-charged dark matter (mDM) possesses fractional electric charge and allows DM to have electromagnetic interaction with baryons. In my work with T. Lin[2], we provide a mechanism for a collisionless mDM to scatter efficiently with Standard Model particles. Our work reveals that the supernova shocks could sweep up and thermalize the ambient mDM via plasma instability. However, these mDM particles return to having roughly the ambient DM velocity in the end due to the adiabatic decompression. Our result implies the detectability of terrestrial experiments to mDM is not strongly affected by supernova shocks.<br/>
-[2] J.-T. Li, T. Lin, <a href="https://doi.org/10.1103/PhysRevD.101.103034">Phys. Rev. D 101, 103034 (2020)</a>
+[2] J.-T. Li and T. Lin, <a href="https://doi.org/10.1103/PhysRevD.101.103034">Phys. Rev. D 101, 103034 (2020)</a>
 <br/><br/><br/>
 
 ### Gravitational waves & supermassive stars:
