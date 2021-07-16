@@ -2,7 +2,7 @@
 <br/>
 
 #### Dark photons and BBN
-<img src="images/dp_bound.pdf" width = "400"> <br/>
+<img src="images/dp_bound.pdf" width = "400"> <br/> 
 In my work with G. M. Fuller and E. Groh, we use the code BURST to trace the evolution of nucleosynthesis numerically from the beginning of weak decoupling with the presence of late-decay dark photons. Using the 1%-level primordial deuterium abundance measurements from quasar absorption lines, our result excludes a range of dark photon model parameters. Moreover, we also identify ranges of dark photon mass and couplings not yet constrained, but perhaps accessible and probable, in future Stage-4 cosmic microwave background (CMB) experiments.
 
 
