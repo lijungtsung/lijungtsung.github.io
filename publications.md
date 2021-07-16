@@ -7,5 +7,4 @@
 + **Jung-Tsung Li**, Chung-Chi Lee, Chao-Qiang Geng, <br/>"_Einstein static universe in exponential f(T) gravity_", <a href="https://doi.org/10.1140/epjc/s10052-013-2315-z">Eur. Phys. J. C73, 2315 (2013)</a> <br/><br/>
 <br/>
 <br/>
-<br/>
 You can also find the preprints of my work on <a href="https://arxiv.org/search/?query=Jung-Tsung+Li&searchtype=all&source=header">arXiv</a>. 
