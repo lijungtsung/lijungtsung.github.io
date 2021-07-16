@@ -3,7 +3,7 @@
 ### Dark photons & big bang bucleosynthesis:
 <img src="images/dp_bound.png" width = "400"><br/><br/>
 Freeze-in dark photons decaying out of equilibrium during the weak-decoupling epoch results in an entropy flow between the neutrino and plasma sectors. In my work with G. M. Fuller and E. Groh, we trace the evolution of nucleosynthesis numerically from the beginning of weak decoupling with the presence of late-decay dark photons. Using the 1%-level primordial deuterium abundance measurements from quasar absorption lines, our result excludes a range of dark photon model parameters.<br/>
-[1](10.1088/1475-7516/2020/12/049)
+[1] <a href="https://doi.org/10.1088/1475-7516/2020/12/049">_JCAP_ 12 (2020) 049</a>
 <br/><br/><br/>
 
 
