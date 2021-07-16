@@ -4,5 +4,5 @@ My hometown is in Chiayi County in southern Taiwan. I did my undergraduate and m
 <br/><br/>
 Outside physics, I enjoy surfing, snowboarding, climbing, hiking and running marathon.
 <br/><br/>
-<img src="images/zion.jpg" width = "600"><br/>
-<img src="images/snowboarding.jpg" width = "600">
+<img src="images/zion.jpg" width = "550"> <br/><br/>
+<img src="images/snowboarding.jpg" width = "550">
