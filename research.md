@@ -2,14 +2,14 @@
 <br/>
 
 ### Dark photons & big bang bucleosynthesis:
-<img src="images/dp_bound.png" width = "400"><br/><br/>
+<img src="images/dp_bound.png" width = "350"><br/><br/>
 Freeze-in dark photons decaying out of equilibrium during the weak-decoupling epoch results in an entropy flow between the neutrino and plasma sectors. In my work with G. M. Fuller and E. Groh, we trace the evolution of nucleosynthesis numerically from the beginning of weak decoupling with the presence of late-decay dark photons. Using the 1%-level primordial deuterium abundance measurements from quasar absorption lines, our result excludes a range of dark photon model parameters.<br/><br/><br/>
 
 
 ### Dark matter & plasma instability:
-<img src="images/shock_diagram.png" width = "400"><br/><br/>
+<img src="images/shock_diagram.png" width = "350"><br/><br/>
 Milli-charged dark matter (mDM) possesses fractional electric charge and allows DM to have electromagnetic interaction with baryons. In my work with T. Lin, we provide a mechanism for a collisionless mDM to scatter efficiently with Standard Model particles. Our work reveals that the supernova shocks could sweep up and thermalize the ambient mDM via plasma instability. However, these mDM particles return to having roughly the ambient DM velocity in the end due to the adiabatic decompression. Our result implies the detectability of terrestrial experiments to mDM is not strongly affected by supernova shocks.<br/><br/><br/>
 
 ### Gravitational waves & supermassive stars:
-<img src="images/isw_bh.png" width = "300"><br/><br/>
+<img src="images/isw_bh.png" width = "250"><br/><br/>
 Supermassive stars with an adiabatic index close to 4/3 suffer post-Newtonian instability at an early stage of their evolution and then collapse to black holes. During the collapses, they radiate a significant fraction of their rest mass in neutrinos. In my work with G. M. Fuller and C. T. Kishimoto, we investigate the gravitational wave signatures driven by the neutrino bursts, which create nearly unique “memory” gravitational waves. These signals will fall in the optimal frequency band of several upcoming space-based laser interferometer missions such as DECIGO and BBO. The result indicates this route of SMBH formation is potentially detectable to redshifts as high as z~13, before the epoch of reionization.<br/><br/>
