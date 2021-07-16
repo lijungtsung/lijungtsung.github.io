@@ -1,6 +1,6 @@
 ## Publications
 <br/>
-+ **Jung-Tsung Li**, George M. Fuller, Evan Grohs, <br/>"_Probing dark photons in the early universe with big bang nucleosynthesis_", <br/><a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a> <br/><br/>
++ **Jung-Tsung Li**, George M. Fuller, Evan Grohs, <br/>"_Probing dark photons in the early universe with big bang nucleosynthesis_", <a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a> <br/><br/>
 + **Jung-Tsung Li**, Tongyan Lin, <br/>"_Dynamics of millicharged dark matter in supernova remnants_", <a href="https://doi.org/10.1103/PhysRevD.101.103034">Phys. Rev. D 101, 103034 (2020)</a> <br/><br/>
 + **Jung-Tsung Li**, George M. Fuller, Chad T. Kishimoto, <br/>"_Neutrino burst-generated gravitational radiation from collapsing supermassive stars_", <a href="https://doi.org/10.1103/PhysRevD.98.023002">Phys. Rev. D 98, 023002 (2018)</a> <br/><br/>
 + **Jung-Tsung Li**, Yi-Peng Wu, Chao-Qiang Geng, <br/>"_Parametrized post-Newtonian limit of teleparallel dark energy model_", <a href="https://doi.org/10.1103/PhysRevD.89.044040">Phys. Rev. D 89, 044040 (2014)</a> <br/><br/>
