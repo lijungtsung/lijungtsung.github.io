@@ -2,6 +2,16 @@ title: Jung-Tsung Li
 description: Postdoctoral Researcher <br/> CCAPP, The Ohio State University <br/><br/> E-mail&#58; li.12638<code>&#64;</code>osu.edu
 google_analytics: Jung-Tsung Li, UCSD, OSU, CCAPP, physics, astronomy, astrophysics, plasma, dark matter, solar gamma rays
 show_downloads: false
-sidebar:
-    image: "images/profile.jpg"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 theme: jekyll-theme-minimal
