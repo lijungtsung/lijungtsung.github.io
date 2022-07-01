@@ -1,5 +1,6 @@
 ## Publications
 <br/>
++ Jung-Tsung Li, John F. Beacom, Annika H. G. Peter, "Galactic Cosmic-Ray Propagation in the Inner Heliosphere: Improved Force-Field Model", <a href="https://arxiv.org/abs/2206.14815">_arXiv_ 2206.14815</a> <br/><br/>
 + Jung-Tsung Li, George M. Fuller, Evan Grohs, "Probing dark photons in the early universe with big bang nucleosynthesis", <a href="https://doi.org/10.1088/1475-7516/2020/12/049">_JCAP_ 12 (2020) 049</a> <br/><br/>
 + Jung-Tsung Li, Tongyan Lin, "Dynamics of millicharged dark matter in supernova remnants", <a href="https://doi.org/10.1103/PhysRevD.101.103034">_Phys. Rev. D_ 101, 103034 (2020)</a> <br/><br/>
 + Jung-Tsung Li, George M. Fuller, Chad T. Kishimoto, "Neutrino burst-generated gravitational radiation from collapsing supermassive stars", <a href="https://doi.org/10.1103/PhysRevD.98.023002">_Phys. Rev. D_ 98, 023002 (2018)</a> <br/><br/>
