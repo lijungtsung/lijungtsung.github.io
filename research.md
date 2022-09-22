@@ -5,7 +5,7 @@
 <br/>
 <img src="images/gcr_protons.png" width = "400"><br/><br/>
 A key goal of heliophysics is to understand how cosmic rays propagate in the solar system's complex, dynamic environment. One observable is solar modulation, i.e., how the flux and spectrum of cosmic rays changes as they propagate inward. We construct an improved force-field model, taking advantage of new measurements of magnetic power spectral density by Parker Solar Probe to predict solar modulation within the Earth's orbit. We find that modulation of cosmic rays between the Earth and Sun is modest, at least at solar minimum and in the ecliptic plane. Our results agree much better with the limited data on cosmic-ray radial gradients within Earth's orbit than past treatments of the force-field model. Our predictions can be tested with forthcoming direct cosmic-ray measurements in the inner heliosphere by Parker Solar Probe and Solar Orbiter. They are also important for interpreting the gamma-ray emission from the Sun due to scattering of cosmic rays with solar matter and photons.<br/>
-[1] J.-T. Li, J. F. Beacom and A. H. G. Peter, <a href="https://arxiv.org/abs/2206.14815">ApJ 937, 27 (2022)</a>
+[1] J.-T. Li, J. F. Beacom and A. H. G. Peter, <a href="https://doi.org/10.3847/1538-4357/ac8cf3">ApJ 937, 27 (2022)</a>
 <br/><br/><br/><br/>
 
 
