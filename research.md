@@ -3,7 +3,7 @@
 
 ### Solar-disk gamma-ray emission:
 <br/>
-<img src="images/gamma_energy_spectrum.png" width = "400"><br/><br/>
+<img src="images/gamma_energy_spectrum.png" width = "550"><br/><br/>
 The Sun is a bright gamma-ray source due to hadronic cosmic-ray interactions with solar gas. While it is known that incoming cosmic rays must generally first be reflected by solar magnetic fields to produce outgoing gamma rays, theoretical models have yet to reproduce the observed spectra. We introduce a simplified model of the solar magnetic fields that captures the main elements relevant to gamma-ray production. Despite having no tuning to match gamma-ray data, our model produces a gamma-ray spectrum that reasonably matches Fermi-LAT data at 1–200 GeV and the HAWC data at near 1 TeV. Our study is important for understanding cosmic-ray transport in the solar atmosphere and will lead to insights about solar-surface magnetic fields on the surface of the Sun.<br/>
 [1] J.-T. Li, J. F. Beacom, Spencer Griffith, and A. H. G. Peter, <a href="https://doi.org/10.48550/arXiv.2307.08728">arXiv:2307.08728</a>
 <br/><br/><br/><br/>
