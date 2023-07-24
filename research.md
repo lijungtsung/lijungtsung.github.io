@@ -1,11 +1,19 @@
 ## Research
 <br/>
 
+### Solar-disk gamma-ray emission:
+<br/>
+<img src="images/gamma_energy_spectrum.png" width = "400"><br/><br/>
+The Sun is a bright gamma-ray source due to hadronic cosmic-ray interactions with solar gas. While it is known that incoming cosmic rays must generally first be reflected by solar magnetic fields to produce outgoing gamma rays, theoretical models have yet to reproduce the observed spectra. We introduce a simplified model of the solar magnetic fields that captures the main elements relevant to gamma-ray production. Despite having no tuning to match gamma-ray data, our model produces a gamma-ray spectrum that reasonably matches Fermi-LAT data at 1–200 GeV and the HAWC data at near 1 TeV. Our study is important for understanding cosmic-ray transport in the solar atmosphere and will lead to insights about solar-surface magnetic fields on the surface of the Sun.<br/>
+[1] J.-T. Li, J. F. Beacom, Spencer Griffith, and A. H. G. Peter, <a href="https://doi.org/10.48550/arXiv.2307.08728">arXiv:2307.08728</a>
+<br/><br/><br/><br/>
+
+
 ### Cosmic-ray transport in the inner heliosphere:
 <br/>
 <img src="images/gcr_protons.png" width = "400"><br/><br/>
 A key goal of heliophysics is to understand how cosmic rays propagate in the solar system's complex, dynamic environment. One observable is solar modulation, i.e., how the flux and spectrum of cosmic rays changes as they propagate inward. We construct an improved force-field model, taking advantage of new measurements of magnetic power spectral density by Parker Solar Probe to predict solar modulation within the Earth's orbit. We find that modulation of cosmic rays between the Earth and Sun is modest, at least at solar minimum and in the ecliptic plane. Our results agree much better with the limited data on cosmic-ray radial gradients within Earth's orbit than past treatments of the force-field model. Our predictions can be tested with forthcoming direct cosmic-ray measurements in the inner heliosphere by Parker Solar Probe and Solar Orbiter. They are also important for interpreting the gamma-ray emission from the Sun due to scattering of cosmic rays with solar matter and photons.<br/>
-[1] J.-T. Li, J. F. Beacom and A. H. G. Peter, <a href="https://doi.org/10.3847/1538-4357/ac8cf3">ApJ 937, 27 (2022)</a>
+[1] J.-T. Li, J. F. Beacom, and A. H. G. Peter, <a href="https://doi.org/10.3847/1538-4357/ac8cf3">ApJ 937, 27 (2022)</a>
 <br/><br/><br/><br/>
 
 
@@ -13,7 +21,7 @@ A key goal of heliophysics is to understand how cosmic rays propagate in the sol
 <br/>
 <img src="images/dp_bound.png" width = "400"><br/><br/>
 Freeze-in dark photons decaying out of equilibrium during the weak-decoupling epoch results in an entropy flow between the neutrino and plasma sectors. In my work with G. M. Fuller and E. Groh[1], we trace the evolution of nucleosynthesis numerically from the beginning of weak decoupling with the presence of late-decay dark photons. Using the 1%-level primordial deuterium abundance measurements from quasar absorption lines, our result excludes a range of dark photon model parameters.<br/>
-[1] J.-T. Li, G. M. Fuller and E. Grohs, <a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a>
+[1] J.-T. Li, G. M. Fuller, and E. Grohs, <a href="https://doi.org/10.1088/1475-7516/2020/12/049">JCAP 12 (2020) 049</a>
 <br/><br/><br/><br/>
 
 
@@ -28,5 +36,5 @@ Milli-charged dark matter (mDM) possesses fractional electric charge and allows 
 <br/>
 <img src="images/isw_bh.png" width = "300"><br/><br/>
 Supermassive stars collapse under post-Newtonian instability and become black holes. During the collapses, they radiate a significant fraction of their rest mass in neutrinos. In my work with G. M. Fuller and C. T. Kishimoto[3], we investigate the gravitational wave signatures driven by the neutrino bursts, which create nearly unique “memory” gravitational waves that fall in the optimal frequency band of DECIGO and BBO. We show this route of supermassive black hole formation is potentially detectable to redshifts as high as 13, before the epoch of reionization.<br/>
-[1] J.-T. Li, G. M. Fuller and C. T. Kishimoto, <a href="https://doi.org/10.1103/PhysRevD.98.023002">Phys. Rev. D 98, 023002 (2018)</a>
+[1] J.-T. Li, G. M. Fuller, and C. T. Kishimoto, <a href="https://doi.org/10.1103/PhysRevD.98.023002">Phys. Rev. D 98, 023002 (2018)</a>
 <br/><br/>
