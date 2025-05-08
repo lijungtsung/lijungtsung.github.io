@@ -1,6 +1,6 @@
 ## Publications
 <br/>
-+ Tim Linden, **Jung-Tsung Li**, Bei Zhou, Isabelle John, Milena Crnogorčević, Annika H. G. Peter, John F. Beacom, "First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle", <a href="https://arxiv.org/abs/2505.04625"> arXiv: 2505.04625 (2025)</a> <br/><br/>
++ Tim Linden, **Jung-Tsung Li**, Bei Zhou, Isabelle John, Milena Crnogorčević, Annika H. G. Peter, John F. Beacom, "*First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle*", <a href="https://arxiv.org/abs/2505.04625"> arXiv: 2505.04625 (2025)</a> <br/><br/>
 + Spencer Griffith, John F. Beacom, **Jung-Tsung Li**, Annika H. G. Peter, "Angular Distribution of Gamma Rays Produced in Proton-Proton Collisions", <a href="https://arxiv.org/abs/2412.08726"> arXiv:2412.08726 (2024)</a> <br/><br/>
 + **Jung-Tsung Li**, John F. Beacom, Spencer Griffith, Annika H. G. Peter, "Small-Scale Magnetic Fields are Critical to Shaping Solar Gamma-Ray Emission", <a href="https://doi.org/10.3847/1538-4357/ad158f"> ApJ 961, 167 (2024)</a> <br/><br/>
 + **Jung-Tsung Li**, John F. Beacom, Annika H. G. Peter, "Galactic Cosmic-Ray Propagation in the Inner Heliosphere: Improved Force-Field Model", <a href="https://doi.org/10.3847/1538-4357/ac8cf3"> ApJ 937, 27 (2022)</a> <br/><br/>
