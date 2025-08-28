@@ -2,7 +2,7 @@
 <br/>
 Hello! I'm a research scientist with a passion for understanding the plasma astrophysics of our universe, from its largest structures to our own Sun.
 <br/><br/>
-My journey began in Chiayi, my hometown in southern Taiwan. I pursued both my bachelor's and master's degrees at National Tsing Hua University, where I first dove into theoretical physics by studying modified gravity.
+My journey began in Chiayi, my hometown in southern Taiwan. I pursued both my bachelor's and master's degrees at National Tsing Hua University, where I first dove into theoretical physics by studying modified gravity and post-Newtonian expansion.
 <br/><br/>
 In 2014, I moved to California to pursue my Ph.D. at the University of California San Diego. My research shifted to the "dark side" of the universe, focusing on dark matter and neutrino physics under the guidance of Prof. George Fuller and Prof. Tongyan Lin.
 <br/><br/>
