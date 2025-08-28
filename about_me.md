@@ -12,5 +12,5 @@ After graduating in 2021, my path led me to The Ohio State University's Center f
 Outside physics, I enjoy surfing, snowboarding, climbing, hiking and running marathons.
 <br/><br/><br/>
 <img src="images/zion.jpg" width = "500"> <br/><br/>
-<img src="images/snowboarding.jpg" width = "500">
+<img src="images/snowboarding.jpg" width = "500"> <br/><br/>
 <img src="images/half_marathon.JPG" width = "500">
