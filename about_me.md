@@ -13,3 +13,4 @@ Outside physics, I enjoy surfing, snowboarding, climbing, hiking and running mar
 <br/><br/><br/>
 <img src="images/zion.jpg" width = "500"> <br/><br/>
 <img src="images/snowboarding.jpg" width = "500">
+<img src="images/half_marathon.JPG" width = "500">
