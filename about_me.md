@@ -1,6 +1,6 @@
 ## About me
 <br/>
-Hello! I'm a physicist with a passion for understanding the plasma astrophysics of our universe, from its largest structures to our own Sun.
+Hello! As a physicist, I'm driven by a passion to understand the plasma universe, from the intricate workings of our Sun to the vast environments of its largest structures.
 <br/><br/>
 My journey began in Chiayi, my hometown in southern Taiwan. I pursued both my bachelor's and master's degrees at National Tsing Hua University, where I first dove into theoretical physics by studying modified gravity and post-Newtonian expansion.
 <br/><br/>
