@@ -12,7 +12,7 @@ Outside physics, I enjoy surfing, snowboarding, climbing, hiking and running mar
 <br/><br/>
 <img src="images/zion.jpg" width = "500"> 
 <img src="images/snowboarding.jpg" width = "500"> 
-<br/>
+<br/><br/>
 (Below: with professional rock climber Brooke Raboutou)<br/>
 <img src="images/with_Raboutou.jpg" width = "500"> 
 <img src="images/half_marathon.JPG" width = "500">
