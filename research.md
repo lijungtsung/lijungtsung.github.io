@@ -2,7 +2,6 @@
 <br/>
 
 ### Solar-disk gamma-ray emission:
-<br/>
 <img src="images/schematic_diagram.png" width = "500">
 <br/>
 The Sun is a bright gamma-ray source due to hadronic cosmic-ray interactions with solar gas. While it is known that incoming cosmic rays must generally first be reflected by solar magnetic fields to produce outgoing gamma rays, theoretical models have yet to reproduce the observed spectra.<br/><br/>
