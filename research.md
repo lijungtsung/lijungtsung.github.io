@@ -8,7 +8,7 @@ The solar disk is a continuous source of GeV--TeV gamma rays. The emission is th
 [1] J.-T. Li, M. Asgari-Targhi, J. F. Beacom, and A. H. G. Peter, <a href="https://arxiv.org/abs/2508.14154">arXiv: 2508.14154 (2025)</a><br/>
 [2] J.-T. Li, J. F. Beacom, S. Griffith, and A. H. G. Peter, <a href="https://doi.org/10.3847/1538-4357/ad158f">ApJ 961, 167 (2024)</a><br/>
 [3] S. Griffith, J. F. Beacom, J.-T. Li and A. H. G. Peter, <a href="https://doi.org/10.1103/yyvx-tnjl">Phys. Rev. D 112, 043009 (2025)</a><br/>
-[4] T. Linden, J.-T. Li, B. Zhou, I. John, M. Crnogorčević, A. H. G. Peter, and J. F. Beacom, <a href="https://arxiv.org/abs/2505.04625">arXiv: 2505.04625 (2025))</a>
+[4] T. Linden, J.-T. Li, B. Zhou, I. John, M. Crnogorčević, A. H. G. Peter, and J. F. Beacom, <a href="https://arxiv.org/abs/2505.04625">arXiv: 2505.04625 (2025)</a>
 <br/><br/><br/>
 
 
