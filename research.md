@@ -3,7 +3,7 @@
 
 ### Solar-disk gamma-ray emission:
 <br/>
-<img src="images/all_lines_gamma.png" width = "550"><br/><br/>
+<img src="images/all_lines_gamma.png" width = "600"><br/><br/>
 The Sun is a bright gamma-ray source due to hadronic cosmic-ray interactions with solar gas. While it is known that incoming cosmic rays must generally first be reflected by solar magnetic fields to produce outgoing gamma rays, theoretical models have yet to reproduce the observed spectra.<br/><br/>
 We introduce a simplified model of the solar magnetic fields that captures the main elements relevant to gamma-ray production. These are a flux tube, representing the network elements, and a flux sheet, representing the intergranule sheets. Both the tube and sheet have a horizontal size of order 100 km and serve as sites where cosmic rays are reflected and gamma rays are produced. Our model produces a gamma-ray spectrum that reasonably matches both the hard spectrum seen by Fermi-LAT data at 1–200 GeV and the considerably softer spectrum seen by HAWC at near 1 TeV. Notably, the spectrum softening observed by HAWC results from the limited effectiveness of capturing and reflecting 10 TeV cosmic rays by the finite-sized intergranule sheets.<br/><br/>
 Our study is important for understanding cosmic-ray transport in the solar atmosphere and will lead to insights about small-scale magnetic fields in the quiet photosphere.<br/><br/>
