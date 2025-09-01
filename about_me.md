@@ -6,7 +6,7 @@ In 2014, I began my doctoral studies at the University of California San Diego. 
 <br/><br/>
 After graduating in 2021, my path led me to The Ohio State University's Center for Cosmology and AstroParticle Physics (CCAPP). I started as a CCAPP postdoctoral fellow before transitioning to my current role as a Research Scientist. Here, my work focuses on the exciting challenges of solar and plasma physics, with a specialization in solar gamma rays and cosmic-ray transport.
 <br/><br/>
-Outside of research, I enjoy surfing, snowboarding, climbing, hiking and running marathons.
+Outside of research, I enjoy surfing, snowboarding, climbing, hiking, and running marathons.
 <br/><br/>
 <img src="images/zion.jpg" width = "500"> 
 <img src="images/snowboarding.jpg" width = "500"> 
