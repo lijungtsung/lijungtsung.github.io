@@ -1,4 +1,4 @@
-Hi! I am a Research Scientist at the Center for Cosmology and AstroParticle Physics (CCAPP) at The Ohio State University.
+Welcome! I am a Research Scientist at the Center for Cosmology and AstroParticle Physics (CCAPP) at The Ohio State University.
 <br/><br/>
 I specialize in high-energy astrophysics, solar physics, and plasma physics. My current research focuses on modeling cosmic-ray transport in the inner heliosphere and the gamma-ray emission observed by Fermi-LAT and HAWC.
 <br/><br/>
