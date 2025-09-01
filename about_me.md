@@ -1,7 +1,5 @@
 ## About me
 <br/>
-Hello! I'm a physicist fascinated by the plasma universe, from the intricate dynamics of our Sun to the vast environments of its largest structures.
-<br/><br/>
 My journey began in Chiayi, my hometown in southern Taiwan. I pursued both my bachelor's and master's degrees at National Tsing Hua University, where I first delved into theoretical physics through studies of modified gravity and post-Newtonian expansion.
 <br/><br/>
 In 2014, I began my doctoral studies at the University of California San Diego. Under the guidance of Prof. George Fuller and Prof. Tongyan Lin, my research explored the "dark side" of the universe through studies of dark matter and neutrino physics.
